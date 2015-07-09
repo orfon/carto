@@ -1,0 +1,6 @@
+<Style name="style" filter-mode="first">
+  <Rule>
+    <Filter>([height] % 50)</Filter>
+    <MarkersSymbolizer width="1" />
+  </Rule>
+</Style>
