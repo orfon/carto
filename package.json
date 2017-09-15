@@ -1,12 +1,12 @@
 {
   "name": "carto",
-  "version": "0.15.1",
+  "version": "0.15.2",
   "description": "Mapnik Stylesheet Compiler",
   "url": "https://github.com/mapbox/carto",
-  "repository": {
+  "repositories": [{
     "type": "git",
     "url": "http://github.com/mapbox/carto.git"
-  },
+  }],
   "author": {
     "name": "Mapbox",
     "url": "http://mapbox.com/",
@@ -25,7 +25,8 @@
   ],
   "licenses": [
     {
-      "type": "Apache"
+      "type": "Apache",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0"
     }
   ],
   "bin": {
